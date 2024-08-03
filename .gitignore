@@ -1,0 +1,1 @@
+"# Ignore compiled files *.class *.jar *.war #ignore build directories \target\ \build\ # Ignore IDE files .idea/ *.iml .vscode/"
